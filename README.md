@@ -82,7 +82,7 @@ Para que este codigo funcione correctamente, debemos introducir un nombre en la 
 
 [PAGINA 2 DE COMANDOS DE MARKDOWN](https://markdown.es/sintaxis-markdown/)
 
-
+---
 
 
 Una vez puesta una de las dos versiones de los códigos, ¡solo tienes que ejecutarlo en VS Code para ver el resultado!
