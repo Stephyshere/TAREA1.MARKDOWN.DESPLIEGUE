@@ -17,17 +17,19 @@ Java es un lenguaje de programación orientado a objetos, diseñado para la plat
 * PASO 1: Instalar VS Code
   * Configurar VS Code para su uso.
   * Descargar la extensión de Java para VS Code.
+    
 * PASO 2: Crear un nuevo proyecto Java.
   1. Damos click derecho en el área de trabajo y seleccionamos "Crear nuevo proyecto".
   2. Seleccionamos "Java" como el lenguaje de nuestro proyecto.
   3. Establecemos un nombre para el proyecto.
   4. Hacemos click en "Crear" para crear el proyecto y comenzar a escribir nuestro código Java.
+     
 * PASO 3: El codigo.
-   Para hacer un "Hola mundo" en Java, simplemente escribimos la siguiente línea de código en nuestro archivo que hemos creado:
+  1. Para hacer un "Hola mundo" en Java, simplemente escribimos la siguiente línea de código en nuestro archivo que hemos creado:
     > *System.out.println("Hola mundo!");*
-  * 2. Para ejecutar nuestro código, hacemos click derecho en la línea de código y seleccionamos "Ejecutar Java" o presionamos el botón de play en la barra de herramientas.
-  * 3. VS Code se abrirá una ventana emergente con el resultado de la ejecución.
-  * 4. La salida de la línea de código se muestra en la consola de VS Code, donde puede verse la frase "Hola mundo!".
+  2. Para ejecutar nuestro código, hacemos click derecho en la línea de código y seleccionamos "Ejecutar Java" o presionamos el botón de play en la barra de herramientas.
+  3. VS Code se abrirá una ventana emergente con el resultado de la ejecución.
+  4. La salida de la línea de código se muestra en la consola de VS Code, donde puede verse la frase "Hola mundo!".
 
 ---
 ### Un poco más de personalización:
