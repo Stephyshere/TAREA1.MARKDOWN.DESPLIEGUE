@@ -69,12 +69,17 @@ Para que este codigo funcione correctamente, debemos introducir un nombre en la 
 ---
 ##### Más información sobre VS Code:
 [PAGINA OFICIAL VSCode](https://code.visualstudio.com/)
+
 ##### Más información sobre Java:
 [PÁGINAL OFICIAL JAVA](https://www.java.com/es/)
+
 ##### Lenguaje utilizado en este tutorial:
 [PÁGINAL OFICIAL MARKDOWN](https://markdown.es/)
+
 [PAGINA 1 DE COMANDOS DE MARKDOWN](https://www.markdownguide.org/cheat-sheet/)
+
 [PAGINA 2 DE COMANDOS DE MARKDOWN](https://markdown.es/sintaxis-markdown/)
+
 
 
 
