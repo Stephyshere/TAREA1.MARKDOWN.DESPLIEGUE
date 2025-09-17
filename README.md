@@ -86,3 +86,5 @@ Para que este codigo funcione correctamente, debemos introducir un nombre en la 
 
 
 Una vez puesta una de las dos versiones de los códigos, ¡solo tienes que ejecutarlo en VS Code para ver el resultado!
+
+![Despedida](https://github.com/Stephyshere/TAREA1.MARKDOWN.DESPLIEGUE/blob/main/Imagenes/Gracias.jpg)
