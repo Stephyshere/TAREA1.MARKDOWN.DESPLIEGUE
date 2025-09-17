@@ -39,17 +39,17 @@ Si queremos, podrimos hacer que en vez de "Hola mundo!", nuestro programa imprim
 Para que este codigo funcione correctamente, debemos introducir un nombre en la consola de VS Code antes de ejecutarlo.
 
 * ¿Cómo añado mi nombre al mensaje personalizado?
-    1. Debemos incluir al principio del codigo la línea: 
+    I. Debemos incluir al principio del codigo la línea: 
     > *import java.util.Scanner;* 
-    2. A continuación, debemos crear una variable Scanner para obtener el nombre del usuario:
+    II. A continuación, debemos crear una variable Scanner para obtener el nombre del usuario:
     > *Scanner sc = new Scanner(System.in);* (El sc es el nombre de nuestra variable Scanner, pero puede ser cualquier nombre que le guste).
-    3. Después de la declaración de la variable Scanner, debemos leer el nombre del usuario:
+    III. Después de la declaración de la variable Scanner, debemos leer el nombre del usuario:
     > *System.out.print("Ingrese su nombre: ");*
-    4. Finalmente, debemos almacenar el nombre en la variable Scanner:
+    IV. Finalmente, debemos almacenar el nombre en la variable Scanner:
     > *nombre = sc.nextLine();*
-    5. Ahora, podemos usar la variable nombre en nuestra línea de código:
+    V. Ahora, podemos usar la variable nombre en nuestra línea de código:
     > *System.out.println("Hola, " + nombre + "!");*
-    6. Ejecutamos nuestro código como lo hemos hecho antes.
+    VI. Ejecutamos nuestro código como lo hemos hecho antes.
 
 ---
 
