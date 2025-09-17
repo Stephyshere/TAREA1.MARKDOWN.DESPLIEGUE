@@ -57,17 +57,20 @@ Para que este codigo funcione correctamente, debemos introducir un nombre en la 
 
 ##### Para la version basica del "Hola mundo!" en Java:
 
-    System.out.println("Hola mundo!");
-
+  ```JAVA
+  System.out.println("Hola mundo!");
+  ```
 
 ##### Para la version personalizada del "Hola mundo!" en Java:
 
+```JAVA
     import java.util.Scanner;
 
     Scanner sc = new Scanner(System.in);
     System.out.print("Ingrese su nombre: ");
     String nombre = sc.nextLine();
     System.out.println("Hola, " + nombre + "!");
+   ``` 
 ---
 ##### Más información sobre VS Code:
 [PAGINA OFICIAL VSCode](https://code.visualstudio.com/)
